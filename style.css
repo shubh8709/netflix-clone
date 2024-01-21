@@ -300,7 +300,7 @@ input.email{
 .gif{
    height: 60px;
 }
-@media screen  and (max-width: 586px){
+@media screen  and (max-width: 1100px){
     .mobile-card{
         width: 50%;
         left: 94px;
