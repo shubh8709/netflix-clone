@@ -17,7 +17,6 @@ body{
     background-repeat: no-repeat;
     background-size: max(2000px, 100vw);
     position: relative;
-    border-bottom: solid rgb(52, 52, 52) 8px;
 }
 .main .box{
     height: 1125px;
