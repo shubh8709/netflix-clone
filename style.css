@@ -12,7 +12,7 @@ body{
 }
 .main{
     background-image: url(assets/background.jpg);
-    height: 85.5vh;
+    height: 1125px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: max(2000px, 100vw);
@@ -20,7 +20,7 @@ body{
     border-bottom: solid rgb(52, 52, 52) 8px;
 }
 .main .box{
-    height: 85.5vh;
+    height: 1125px;
     width: 100%;
     background-color: black;
     opacity: 0.69;
