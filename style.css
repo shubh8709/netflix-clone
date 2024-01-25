@@ -489,7 +489,7 @@ input.email{
     }
 }
 @media screen and (max-width:588px) {
-    .select-box{
+    #select-box{
         width: 69px;
     }
 }
